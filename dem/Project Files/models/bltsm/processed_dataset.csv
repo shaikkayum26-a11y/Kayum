@@ -1,0 +1,21 @@
+text,emotion,clean_text,label
+i am feeling very happy today,happy,feeling happy today,7
+i am exicited to learn new things,curious,exicited learn new things,5
+i do not understand this topic,confused,understand topic,4
+i am bored with this activity,bored,bored activity,3
+this problem is making me frustrated,frustrated,problem making frustrated,6
+i am curious about how this works,curious,curious works,5
+i feel lonely today,sad,feel lonely today,8
+i am angry because the result was bad,angry ,angry result bad,1
+i am very scared of the future,scared,scared future,9
+i am excited about my new project,happy,excited new project,7
+i feel proud of my achivements,happy,feel proud achivements,7
+i feel nervous before the exam,anxious,feel nervous exam,2
+i am afraid of lossing this oppotunity,anxious,afraid lossing oppotunity,2
+i am unsure about my decision,confused,unsure decision,4
+i miss my old frinds,sad,miss old frinds,8
+i am dispointed with my result,sad,dispointed result,8
+i hate when people ignore me,angery,hate people ignore,0
+this sistuation makes me frustrated,angery,sistuation makes frustrated,0
+i enjoy discover new things,curious,enjoy discover new things,5
+i want to explore more about AI,curious,want explore ai,5

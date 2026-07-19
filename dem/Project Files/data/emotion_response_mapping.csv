@@ -1,0 +1,21 @@
+emotion,response
+angry ,Detected emotion is angry 
+curious,Detected emotion is curious
+"{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}","Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}"
+"{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}","Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}"
+"{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}","Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}"
+"{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}","Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}"
+"{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}","That's a fantastic curiosity to have about recursive functions!
+
+A helpful tip is to always identify the **base case** first – the condition that stops the recursion.
+
+You've got this – keep exploring!"
+"{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}","It's wonderful you're feeling curious about recursive functions!
+
+A great tip is to always identify the 'base case' first – that's when the function stops calling itself.
+
+You've got this, keep exploring!"
+"{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}","That's great you're curious about recursive functions!
+
+Try drawing out the call stack for a simple example to visualize how it works. You've got this!"
+angry,I understand you're feeling angry. Let's work through the problem step by step.

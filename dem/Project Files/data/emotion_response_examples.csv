@@ -1,0 +1,94 @@
+text,emotion,confidence,response,field,timestamp
+im sad,angry ,0.1001,Detected emotion is angry ,English,2026-07-03T23:08:18.327328
+im  get very low marks,angry ,0.1002,Detected emotion is angry ,English,2026-07-03T23:08:45.101228
+my teacher scold me,angry ,0.1002,Detected emotion is angry ,English,2026-07-03T23:09:05.873045
+I don't understand recursion.,curious,0.1001,Detected emotion is curious,Mathematics,2026-07-03T23:10:23.459209
+I don't understand recursion.,curious,0.1001,Detected emotion is curious,Mathematics,2026-07-03T23:10:33.218652
+"I finally understood recursion. Now I can solve the problems by myself.
+
+","{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",0.1002,"Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",Mathematics,2026-07-04T00:06:05.273925
+"I finally understood recursion. Now I can solve the problems by myself.
+
+","{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",0.1002,"Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",Mathematics,2026-07-04T00:06:06.187543
+"I finally understood recursion. Now I can solve the problems by myself.
+
+","{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",0.1002,"Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",Mathematics,2026-07-04T00:06:39.156806
+"This lesson is boring and I cannot concentrate.
+
+","{'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",0.1002,"Detected emotion is {'type': 'Single Emotion', 'emotion': 'angry ', 'confidence': 0.1002}",Programming,2026-07-04T00:07:02.988377
+im curious about recurrsive functions,"{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}",0.1002,"That's a fantastic curiosity to have about recursive functions!
+
+A helpful tip is to always identify the **base case** first – the condition that stops the recursion.
+
+You've got this – keep exploring!",Computer Science,2026-07-04T00:49:48.579854
+"im curious about recurrsive functions
+","{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}",0.1002,"It's wonderful you're feeling curious about recursive functions!
+
+A great tip is to always identify the 'base case' first – that's when the function stops calling itself.
+
+You've got this, keep exploring!",Mathematics,2026-07-04T00:50:28.193110
+im curious about recurrsive functions,"{'type': 'Single Emotion', 'emotion': 'curious', 'confidence': 0.1002}",0.1002,"That's great you're curious about recursive functions!
+
+Try drawing out the call stack for a simple example to visualize how it works. You've got this!",Computer Science,2026-07-04T01:12:17.689234
+im curious about recurrsive functions,curious,0.1002,"It's great you're curious about recursive functions!
+
+Here's a tip: Always identify the 'base case' first – it's the condition that stops the recursion and prevents infinite loops.
+
+Keep asking questions and exploring! You've got this.",Computer Science,2026-07-04T01:16:21.102356
+im curious about recurrsive functions,curious,0.1002,"It's wonderful you're feeling curious about recursive functions!
+
+In literature, you can think of this idea in ""story within a story"" structures, like a frame narrative, where a tale contains another tale within it.
+
+Keep exploring those fascinating connections!",Literature,2026-07-04T01:17:05.550353
+"I understand most of the topic, but I'm curious about how recursion actually works.",curious,0.1001,"That's wonderful curiosity, and a fantastic trait for a biologist!
+
+To help grasp recursion, try visualizing how a complex biological structure, like the branching of a tree or the airways in a lung, forms by repeating a similar pattern at smaller and smaller scales.
+
+Keep asking those insightful questions; they lead to truly deep understanding!",Biology,2026-07-04T01:21:26.447409
+"I understand most of the topic, but I'm curious about how recursion actually works.",curious,0.1001,"It's fantastic that you're curious about recursion – it's a fascinating topic many find tricky at first!
+
+**Learning Tip:** Try tracing a simple recursive function (like factorial or Fibonacci) step-by-step on paper. Visualize how each function call adds to a ""stack"" and how results return as the stack unwinds.
+
+You're doing great by asking these deeper questions; that's how true understanding builds!",Computer Science,2026-07-04T01:28:54.856540
+"I understand most of the topic, but I'm curious about how recursion actually works.",curious,0.1001,"It's great you're curious about recursion!
+
+To understand how it works, try tracing a simple recursive function (like factorial) step-by-step with pen and paper.
+
+This curiosity will really help you master it!",Computer Science,2026-07-04T01:36:21.013954
+"I understand most of the topic, but I'm curious about how recursion actually works.",curious,0.1001,"It's wonderful that you're curious about how recursion truly works!
+
+**Learning Tip:** Try tracing a simple recursive function (like factorial) on paper. Pay close attention to how each call creates a new ""context"" and is added to a conceptual ""call stack,"" then how they resolve one by one.
+
+You're asking excellent questions that show real insight – keep up the great work!",Computer Science,2026-07-04T01:45:55.809264
+"I understand most of the topic, but I'm curious about how recursion actually works.",curious,0.1001,"It's fantastic that your curiosity about recursion is sparking!
+
+**Learning Tip:** Try tracing a simple recursive function (like factorial or Fibonacci) on paper, step-by-step, imagining each call as a new ""layer"" being added to a stack.
+
+Keep exploring, you're doing great!",Computer Science,2026-07-04T01:53:12.727585
+im refused to do work,angry ,0.1002,"I can tell you're feeling angry right now.
+
+When you're stuck on a task, try breaking the problem down into smaller, manageable steps.
+
+You've got this!",Computer Science,2026-07-04T07:18:43.861497
+im refused to do work,angry ,0.1002,"I hear you're feeling really angry right now.
+
+When tackling a Computer Science problem, try breaking it down into the smallest possible steps to get started.
+
+You're capable of great things. Take it one piece at a time.",Computer Science,2026-07-04T07:40:42.276758
+im refused to do work,angry ,0.1002,"I hear you're feeling angry, and it's totally understandable when a problem ""refuses to do work.""
+
+Try breaking down your task into the smallest possible steps.
+
+You've got this, keep going!",Computer Science,2026-07-04T07:53:58.538797
+"I'm curious about artificial intelligence, but I'm also confused about how neural networks actually learn.",angry ,0.1002,"It's completely understandable to feel a bit angry and confused when diving into how neural networks learn.
+
+A great way to clarify it is to focus on understanding ""gradient descent"" and ""backpropagation"" individually, perhaps by watching an animated explanation.
+
+You're asking the right questions, and tackling these concepts is a big step in AI! You've got this.",Computer Science,2026-07-04T07:55:04.638656
+im refused to do work,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T08:26:33.605846
+im refused to do work,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T08:26:43.124875
+I am confused about recursion.,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T08:30:08.926562
+I studied for my mathematics exam but still cannot solve integration problems. I am frustrated and confused.,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T08:31:39.668942
+I studied for my mathematics exam but still cannot solve integration problems. I am frustrated and confused.,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T08:32:40.210797
+im refused to do work,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Computer Science,2026-07-04T14:38:51.043315
+I studied for my mathematics exam but still cannot solve integration problems. I am frustrated and confused.,angry,0.1002,I understand you're feeling angry. Let's work through the problem step by step.,Mathematics,2026-07-04T14:44:32.227730
